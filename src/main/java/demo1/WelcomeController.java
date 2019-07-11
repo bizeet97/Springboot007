@@ -23,3 +23,11 @@ class welcomeservice
 		return "Bizeet";
 	}
 }
+@Component
+class welcomeservice
+{
+	public String welcomeretrieve()
+	{
+		return "Bizeet";
+	}
+}
